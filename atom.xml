@@ -4,7 +4,7 @@
   <subtitle><![CDATA[an Epic of Tech-fancier in Mobile World]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://ilovetele.com/"/>
-  <updated>2014-05-13T18:35:45.632Z</updated>
+  <updated>2014-05-14T01:24:42.622Z</updated>
   <id>http://ilovetele.com/</id>
   
   <author>
@@ -19,9 +19,9 @@
     <link href="http://ilovetele.com/2014/05/12/Using-GitHub-Pages-for-Your-Blog/"/>
     <id>http://ilovetele.com/2014/05/12/Using-GitHub-Pages-for-Your-Blog/</id>
     <published>2014-05-12T07:35:55.000Z</published>
-    <updated>2014-05-13T18:19:34.000Z</updated>
+    <updated>2014-05-13T20:47:55.000Z</updated>
     <content type="html"><![CDATA[<p><br /></p>
-<center><img src="https://dl.dropboxusercontent.com/u/12901559/Picx/Blog/02.github-logo.jpg" alt=""></center>
+<center><img src="/img/article/github-logo.jpg" alt="" title="GitHub logo"></center>
 
 <blockquote>
 <h3 id="Reminder:_The_section_will_introduce:">Reminder: The section will introduce:</h3>
@@ -37,9 +37,11 @@
 <h2 id="GitHub_Pages">GitHub Pages</h2>
 <h2 id="What’s_Next?">What’s Next?</h2>
 <p>GitHub Pages officially introduce <a href="http://jekyllrb.com/docs/quickstart/" target="_blank">Jekyll</a> framework for blogging.<br>Are you ready to experience the power of <a href="http://hexo.io" target="_blank">Hexo</a> framework!  Check <a href="http://hexo.io/docs" target="_blank">documentation</a> to learn how to use.</p>
+<p><!-- img reference --></p>
+<p><!-- link reference --></p>
 ]]></content>
     <summary type="html"><![CDATA[<p><br /></p>
-<center><img src="https://dl.dropboxusercontent.com/u/12901559/Picx/Blog/02.github-logo.jpg" alt=""></center>
+<center><img src="/img/article/github-logo.jpg" alt="" title="GitHub logo"></center>
 
 <blockquote>
 <h3 id="Reminder:_The_section_will_introduce:">Reminder: The section will introduce:</h3>
@@ -66,9 +68,9 @@
     <link href="http://ilovetele.com/2014/05/11/Preparation-for-Your-Blog/"/>
     <id>http://ilovetele.com/2014/05/11/Preparation-for-Your-Blog/</id>
     <published>2014-05-11T09:48:23.000Z</published>
-    <updated>2014-05-13T18:19:46.000Z</updated>
+    <updated>2014-05-13T21:23:02.000Z</updated>
     <content type="html"><![CDATA[<p><br /></p>
-<p><center><img src="https://dl.dropboxusercontent.com/u/12901559/Picx/Blog/01.blog.jpg" alt=""></center></p>
+<p><center><br>{:.center}<br><img src="/img/article/blog.jpg" alt="" title="Blog"></center></p>
 <blockquote>
 <h3 id="Reminder:_you_can_skip_the_post_if_you_merely_want_to_know_how_to_build_a_blog_on_GitHub-">Reminder: you can skip the post if you merely want to know how to build a blog on GitHub.</h3>
 </blockquote>
@@ -82,7 +84,7 @@
 <p><a id="more"></a><br>As far as I am concerned, good visual design is simple and clean style. Artistic design can keep refining all the time, however, the first three tasks need to be decided at very beginning stage. That is why I want to share my experience of choosing web host, domain name service, and management platform with readers. Welcome any idea and suggestion from you. YOUR ADVICE IS PRICELESS!</p>
 <h2 id="Web_Hosting">Web Hosting</h2>
 <p>Before I know it is possible to build a static blog on <a href="https://github.com/" target="_blank">GitHub</a>, I have already spent some time on free web hosts research. <a href="http://freehosting1.net/hosting.aspx" target="_blank">The free web hosting directory</a> is one useful review website for those still looking for good free web hosts. </p>
-<p>After reading some review, I noticed experienced website designers cared about the down time of service most. Sometimes FREE is more expensive because of frustrating unexpected down time. Thus, paying for a web hosting in an affordable price might not be a bad choice for the easy installation, website stability and technicial support. <a href="http://www.hostgator.com/" target="_blank">HostGator</a>, <a href="www.bluehost.com">bluehost</a> and <a href="http://www.justhost.com/" target="_blank">justhost</a> are frequently mentioned with positive reviews on internet.</p>
+<p>After reading some review, I noticed experienced website designers cared about the down time of service most. Sometimes FREE is more expensive because of frustrating unexpected down time. Thus, paying for a web hosting in an affordable price might not be a bad choice for the easy installation, website stability and technicial support. <a href="http://www.hostgator.com/" target="_blank">HostGator</a>, <a href="http://www.bluehost.com/" target="_blank">bluehost</a> and <a href="http://www.justhost.com/" target="_blank">justhost</a> are frequently mentioned with positive reviews on internet.</p>
 <p>If you are a IT professional, renting a virtual private server (VPS) is another decent choice. <a href="http://www.cloudatcost.com/" target="_blank">cloudatcost</a> recently offers several plans with attractive price for light and heavy users. You can give it a try his basic plan:</p>
 <blockquote>
 <p>$1/month or $35/lifetime for 1CPU, 512MB, 10GB storage, 500GB monthly transfer</p>
@@ -94,7 +96,7 @@
 <li><a href="https://www.Namecheap.com/" target="_blank">Namecheap</a> has better user-friendly interface compared to Godaddy</li>
 </ul>
 <h2 id="Management_Platform">Management Platform</h2>
-<p>Some people mention that <a href="http://wordpress.org/" target="_blank">Wordpress</a> is the best blog platform. It not only offer 3GB free online space but also has user-friendly tools to build a personalized blog easily. Besides <a href="http://wordpress.org/" target="_blank">Wordpress</a>, <a href="http://www.joomla.org" target="_blank">Joomla</a> and <a href="https://drupal.org" target="_blank">Drupal</a> are top 2 and 3 content management systems (CMS) boardly used for community and businesss websites in the world. To be honest, Drupal + VPS had been my original choice for my website until I was informed that <a href="https://github.com/" target="_blank">GitHub</a> has <a href="https://pages.github.com/" target="_blank">GitHub pages</a> feature for developers to build a simple static blog.</p>
+<p>Some people mention that <a href="http://wordpress.org/" target="_blank">Wordpress</a> is the best blog platform. It not only offer 3GB free online space but also has user-friendly tools to build a personalized blog easily. Besides <a href="http://wordpress.org/" target="_blank">Wordpress</a>, <a href="http://www.joomla.org/" target="_blank">Joomla</a> and <a href="https://drupal.org/" target="_blank">Drupal</a> are top 2 and 3 content management systems (CMS) boardly used for community and businesss websites in the world. To be honest, Drupal + VPS had been my original choice for my website until I was informed that <a href="https://github.com/" target="_blank">GitHub</a> has <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> feature for developers to build a simple static blog.</p>
 <p>The main reason that I choose GitHub as my first step of learning web design is:</p>
 <ol>
 <li>No worry about down time.</li>
@@ -102,9 +104,11 @@
 <li>I can learn <code>Git</code>, <code>Markdown</code>, and <code>Node.js</code> during creating my blog.</li>
 </ol>
 <p>You cannot wait to learn how to use GitHub any more, can’t you? Let’s move on~</p>
+<p><!-- img reference --></p>
+<p><!-- link reference --></p>
 ]]></content>
     <summary type="html"><![CDATA[<p><br /></p>
-<p><center><img src="https://dl.dropboxusercontent.com/u/12901559/Picx/Blog/01.blog.jpg" alt=""></center></p>
+<p><center><br>{:.center}<br><img src="/img/article/blog.jpg" alt="" title="Blog"></center></p>
 <blockquote>
 <h3 id="Reminder:_you_can_skip_the_post_if_you_merely_want_to_know_how_to_build_a_blog_on_GitHub-">Reminder: you can skip the post if you merely want to know how to build a blog on GitHub.</h3>
 </blockquote>
